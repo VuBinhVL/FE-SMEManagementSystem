@@ -24,7 +24,7 @@ This frontend was developed using **AI-assisted coding (Vibe Coding)** technique
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/VuBinhVL/SME_Management_Frontend.git](https://github.com/VuBinhVL/SME_Management_Frontend.git)
+    git clone https://github.com/VuBinhVL/FE-SMEManagementSystem.git
     ```
 
 2.  **Install Dependencies**:
